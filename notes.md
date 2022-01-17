@@ -1,0 +1,3 @@
+In recent years the scope of web applications has increased dramatically and as the requirements for our apps grow, so does the complexity. In order to make this added complexity easier to deal with, certain techniques and patterns are increasingly being used to make developer’s lives easier and to help us build more robust applications.
+
+One of the main areas where complexity has grown is in managing our application’s state, so to combat this developers are using libraries that provide abstractions for updating and accessing their app’s state. The most notable example being Redux, which is an implementation of the Flux pattern.
